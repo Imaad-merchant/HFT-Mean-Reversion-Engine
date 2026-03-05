@@ -9,9 +9,9 @@ The strategy targets liquidity inefficiencies at **PDH/PDL (Previous Day High/Lo
 
 | Metric | Value |
 |---|---|
-| Instrument | SPY (configurable) |
-| Resolution | 1-minute bars |
-| Back-test period | 1 year of minute-level data |
+| Instrument | NQ=F |
+| Resolution | 5-minute bars |
+| Back-test period | 2 year of minute-level data |
 | Win rate | 86 % *(example backtest result)* |
 | Risk-to-Reward | 1 : 3 |
 | Avg. weekly alpha | $4,352 *(example backtest result)* |
