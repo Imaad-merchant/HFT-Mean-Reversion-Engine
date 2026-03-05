@@ -86,7 +86,7 @@ All tunable parameters live at the top of `MeanReversionStrategy` in `main.py`:
 
 | Parameter | Default | Description |
 |---|---|---|
-| `TICKER` | `"SPY"` | Instrument to trade |
+| `TICKER` | `"NQ=F"` | Instrument to trade |
 | `STD_PERIOD` | `20` | Rolling window for SMA / STD |
 | `STD_MULTIPLIER` | `2.0` | SD band half-width (σ) |
 | `FIB_LEVELS` | `[0.236, 0.382, 0.500, 0.618, 0.786]` | Fibonacci ratios |
