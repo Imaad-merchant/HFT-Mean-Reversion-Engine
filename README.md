@@ -96,3 +96,19 @@ All tunable parameters live at the top of `MeanReversionStrategy` in `main.py`:
 | `TRAILING_STOP` | `0.005` | Trailing stop distance (0.50 %) |
 | `MAX_DRAWDOWN` | `0.10` | Max portfolio drawdown before halting (10 %) |
 | `MAX_POSITIONS` | `3` | Maximum simultaneous open positions |
+
+
+## Performance
+
+Detailed backtest results. Replace placeholders with the latest run output from QuantConnect.
+
+| Metric | Value |
+| --- | --- |
+| Win Rate | [TBD]% |
+| Avg. Trade (PnL) | [TBD] |
+| Max Drawdown | [TBD]% |
+| Sharpe Ratio | [TBD] |
+| Total Trades | [TBD] |
+| Backtest Window | [TBD] |
+
+_Note: Out-of-sample results on NQ=F (Nasdaq 100 futures), 5-minute bars. See `## Strategy Overview` above for the headline example figures._
